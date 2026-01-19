@@ -1,0 +1,39 @@
+{
+  "name": "bairaju-naveen-chandra-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for BAIRAJU NAVEEN CHANDRA - AI/ML Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html",
+    "build": "echo 'Static site - no build process required'",
+    "deploy": "echo 'Ready for deployment to any static hosting service'"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "machine-learning",
+    "web-development",
+    "javascript",
+    "css",
+    "html",
+    "responsive-design"
+  ],
+  "author": {
+    "name": "BAIRAJU NAVEEN CHANDRA",
+    "email": "naveenraj1315@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bairaju-naveen-chandra/portfolio"
+  },
+  "homepage": "https://bairaju-naveen-chandra.github.io/portfolio",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
